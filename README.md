@@ -14,4 +14,6 @@ Craft executive speeches, presentations, all-hands talks, board updates, investo
 ## Installing a skill
 
 1. Go to the [Releases](../../releases/latest) page and download the `.skill` file
-2. In Claude Cowork, click **Save skill** to install
+2. Open Claude Cowork and start a new conversation
+3. Drag and drop the `.skill` file into the chat, or attach it as a file
+4. Claude will show a **Save skill** button — click it to install
