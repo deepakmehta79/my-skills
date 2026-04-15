@@ -13,6 +13,5 @@ Craft executive speeches, presentations, all-hands talks, board updates, investo
 
 ## Installing a skill
 
-1. Download the `.skill` file from the [Releases](../../releases) page
-2. In Claude Cowork, click "Save skill" to install
-
+1. Go to the [Releases](../../releases/latest) page and download the `.skill` file
+2. In Claude Cowork, click **Save skill** to install
